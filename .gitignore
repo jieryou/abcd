@@ -1,5 +1,5 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+/_book/
+/node_modules/
+/book.pdf
+/book.mobi
+/book.epub
